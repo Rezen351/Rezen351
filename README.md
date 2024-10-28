@@ -1,5 +1,5 @@
 <h2> Hi, I'm Alif! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+<img align='right' src="https://www.theodysseyonline.com/media-library/image.gif?id=10758473&width=900&quality=80" width="230">
 <p><em>Physics Engineer at <a href="http://www.unb.br">Bandung Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
