@@ -4,7 +4,6 @@
 </em></p>
 
 [![Line: rizky152003](https://img.shields.io/badge/Line-rizky152003-brightgreen?style=flat-square&logo=line&logoColor=white&link=https://line.me/ti/p/~rizky152003)](https://line.me/ti/p/~rizky152003)
-
 [![Linkedin: alifmuhammadrizky](https://img.shields.io/badge/-alifmuhammadrizky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alif-muhammad-rizky-8758b0214/)](https://www.linkedin.com/in/alif-muhammad-rizky-8758b0214/)
 [![GitHub Alif](https://img.shields.io/github/followers/Rezen351?label=follow&style=social)](https://github.com/Rezen351)
 
