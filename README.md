@@ -1,6 +1,6 @@
 <h2> Hi, I'm Alif! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Physics Engineer at <a href="http://www.unb.br">Bandung Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img " width="30"> 
+<img align='right' src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE"" width="230">
+<p><em>Physics Engineer at <a href="http://www.unb.br">Bandung Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: AlifMuhammad](https://img.shields.io/twitter/follow/AlifMuhammad?style=social)](https://twitter.com/Alif)
@@ -22,9 +22,3 @@ const almuzky = {
                       },
   challenge: "I am doing the #100DaysOfCode challenge focused on IoT and web development"
 }
-
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
