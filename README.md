@@ -21,15 +21,10 @@ Halo! Saya **Alif**, seorang mahasiswa teknik fisika yang sedang mendalami dunia
    Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
 
 
-## 📫 Hubungi Saya
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifmuhammadrizky01@gmail.com)  
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/alif-muhammad-rizky-8758b0214/)  
-[![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/Rezen351)  
-[![Line](https://img.icons8.com/ios-filled/50/000000/line.png)](https://line.me/ti/p/@rizky152003)
-
 ## 🌐 Media Sosial
-- [GitHub](https://github.com/Rezen351)
-- [Line](@rizky152003)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifmuhammadrizky01@gmail.com)  
+[![LinkedIn]([https://img.icons8.com/ios-filled/50/000000/linkedin.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/alif-muhammad-rizky-8758b0214/)  
+[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/@rizky152003)
 
 ---
 
