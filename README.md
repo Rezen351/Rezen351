@@ -1,29 +1,36 @@
-# 📦 Nama Proyek
+# 👋 Selamat Datang di Profil GitHub Saya!
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+## 🔍 Tentang Saya
+Halo! Saya **Alif**, seorang mahasiswa teknik fisika yang sedang mendalami dunia teknologi dan elektronik. Saya sangat tertarik dengan pengembangan IoT, pemrograman, dan penerapan konsep fisika dalam teknologi.
 
-## 🔍 Deskripsi
-Deskripsi singkat mengenai proyek ini dan tujuannya.
+## 🎓 Pendidikan
+- **Teknik Fisika**  
+  [Bandung Institute of Technology] - [2022] - [Calm Bro.. (rencana)]
+  
+## 💻 Keterampilan
+- **Bahasa Pemrograman**: Python, JavaScript, C++
+- **Framework dan Teknologi**: Node-RED, Vue.js, Arduino
+- **Database**: MySQL, MongoDB
+- **Alat dan Platform**: Git, Docker, MQTT
 
-## 📦 Fitur Utama
-- Fitur 1
-- Fitur 2
-- Fitur 3
+## 🚀 Proyek yang Sedang Dikerjakan
+1. **[Nama Proyek 1](link_ke_proyek)**  
+   Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
+   
+2. **[Nama Proyek 2](link_ke_proyek)**  
+   Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
 
-## 🚀 Cara Memulai
-1. Langkah pertama
-2. Langkah kedua
+3. **[Nama Proyek 3](link_ke_proyek)**  
+   Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
 
-## 📷 Contoh Gambar
-![Contoh Gambar](images/example.png)
+## 📫 Hubungi Saya
+- **Email**: [alifmuhammadrizky01@gmail.com](mailto:email@domain.com)
+- **LinkedIn**: [Alif Muhammad Rizky](https://www.linkedin.com/in/alif-muhammad-rizky-8758b0214/)
 
-## 🌐 Referensi
-- [Link 1](http://example.com)
-- [Link 2](http://example.com)
+## 🌐 Media Sosial
+- [GitHub](https://github.com/Rezen351)
+- [Line](@rizky152003)
 
-## 🤝 Kontribusi
-Silakan lihat [CONTRIBUTING.md](CONTRIBUTING.md) untuk detail lebih lanjut tentang cara berkontribusi.
+---
 
-## 📄 Lisensi
-Proyek ini dilisensikan di bawah MIT License.
+Terima kasih telah mengunjungi profil saya! Mari kita terhubung dan berkolaborasi! 🚀
