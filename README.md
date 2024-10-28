@@ -1,6 +1,6 @@
 <h2> Hi, I'm Alif! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://www.theodysseyonline.com/media-library/image.gif?id=10758473&width=900&quality=80" width="230">
-<p><em>Physics Engineer at <a href="http://www.unb.br">Bandung Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Branding Team <a href="https://www.thoughtworks.com">Dagozilla ITB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Physics Engineer at <a href="https://itb.ac.id/">Bandung Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Branding Team <a href="https://dagozilla.itb.ac.id/">Dagozilla ITB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: AlifMuhammad](https://img.shields.io/twitter/follow/AlifMuhammad?style=social)](https://twitter.com/Alif)
