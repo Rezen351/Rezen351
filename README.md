@@ -36,12 +36,6 @@ const almuzky = {
   },
   workExperience: [
     {
-      position: "Computer Engineer",
-      company: "UD Mulya Computer, Klaten",
-      period: "Jun 2023 – Aug 2023",
-      responsibilities: ["Hardware/software maintenance", "Network optimization"]
-    },
-    {
       position: "Automation Integrated Modular Aeroponic System Designer",
       company: "LPIK ITB & PT. Kentang Hollando Sejahtera, Bandung",
       period: "Jul 2024 – Oct 2024",
